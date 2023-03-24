@@ -1,5 +1,6 @@
 # SDL 学习使用  
-wkangk <wangkangchn@163.com>
+wkangk <wangkangchn@163.com>  
+学习材料来自: https://lazyfoo.net/SDL_tutorials/index.php  
 
 ## 安装:  
 ```
