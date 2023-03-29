@@ -12,6 +12,12 @@ ubuntu:
 
 20230329 提交说明:  
 1. 05 - 学习 Surface 格式转换, 缩放显示  
+2. 06 - 学习使用 SDL_image 加载 png 图像  
+SDL_image 安装
+```
+ubuntu:
+    apt-get install libsdl2-image-dev
+```
 
 20230328 提交说明:  
 1. 学习事件轮询, 键盘事件的处理  
